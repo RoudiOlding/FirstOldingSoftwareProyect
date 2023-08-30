@@ -1,1 +1,1 @@
-#This is my first repo on github, and I´m gonna upload my first proyect of software "Anitrack", so . . . Keep watching!
+#This is my first repo on github, and I´m gonna upload a proyect of software called "Anitrack", so . . . Keep watching!
